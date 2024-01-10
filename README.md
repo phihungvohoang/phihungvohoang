@@ -21,7 +21,7 @@ class Daniel_Truong:
 
 ## ✨ Project Showcase
 
-* [Git-Readme](https://github.com/anhduy1202/Git-Readme) - Website to make your Github Readme cooler
+* [Git-Readme](https://github.com/phihungvohoang/phihungvohoang) - Website to make your Github Readme cooler
 <!---
 phihungvohoang/phihungvohoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
