@@ -2,7 +2,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ```python
-class Daniel_Truong:
+class Hazel_Vo:
   def __init__(self):
     self.class = 2024
     self.major = "FullStack"
